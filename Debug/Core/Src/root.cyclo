@@ -1,0 +1,3 @@
+../Core/Src/root.c:26:6:root_step0	21
+../Core/Src/root.c:350:6:root_init0	1
+../Core/Src/root.c:391:6:root_step1	5
