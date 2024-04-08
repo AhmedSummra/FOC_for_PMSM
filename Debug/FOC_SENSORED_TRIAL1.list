@@ -2424,7 +2424,7 @@ void ADC_ReadEncoder(encoder_out* a){
  80016e2:	6078      	str	r0, [r7, #4]
 
 	/* write encoder function and read from channel 4*/
-
+	/* HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH */
 }
  80016e4:	bf00      	nop
  80016e6:	370c      	adds	r7, #12
