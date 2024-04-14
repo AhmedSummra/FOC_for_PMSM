@@ -11,5 +11,5 @@
 ../Core/Src/main.c:477:8:ADC_ReadCurrentPhaseB	1
 ../Core/Src/main.c:494:8:ADC_ReadCurrentPhaseC	1
 ../Core/Src/main.c:511:6:ADC_ReadEncoder	1
-../Core/Src/main.c:517:5:PWM_Regulate	1
-../Core/Src/main.c:531:6:Error_Handler	1
+../Core/Src/main.c:516:5:PWM_Regulate	1
+../Core/Src/main.c:530:6:Error_Handler	1

@@ -511,7 +511,6 @@ real_t ADC_ReadCurrentPhaseC(void){
 void ADC_ReadEncoder(encoder_out* a){
 
 	/* write encoder function and read from channel 4*/
-	/* HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH */
 }
 
 int PWM_Regulate(real_t input){
